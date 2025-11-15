@@ -1,4 +1,6 @@
 # 📊 E-Commerce Sales Dashboard — Power BI
+
+
 ## Project objective
 This project presents an interactive Power BI Dashboard built to analyze e-commerce sales performance. It includes end-to-end work from data cleaning to data modeling and dashboard creation.
 🔧 Data Cleaning Performed
